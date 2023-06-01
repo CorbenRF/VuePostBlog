@@ -1,0 +1,12 @@
+# This is a basic workflow to help you get started with Actions
+
+name: 
+Quasar Vue Github Pages Deploy
+  # You may pin to the exact commit or the version.
+  # uses: Daniele-Tentoni/quasar-vue-gh-pages-deploy@e89fde6557afb07ada86da099a53c0e43ed89d0b
+  uses: Daniele-Tentoni/quasar-vue-gh-pages-deploy@0.1.0
+  with:
+    username: CorbenRF
+   username: CorbenRF
+    reponame: VuePostBlog
+    token: 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
